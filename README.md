@@ -36,7 +36,7 @@ For a full list, see requirements.txt.
 Clone this repository:
 
 
-git clone https://github.com/yourusername/deepfake-detection
+git clone https://github.com/shuklatushar12219829/deepfake-detection
 cd deepfake-detection/notebook
 Install dependencies:
 
@@ -54,6 +54,8 @@ Upload a video or provide a URL to analyze.
 View the confidence score and analysis results in the GUI.
 
 For more details, refer to the project explanation video.
+
+https://youtu.be/L357Vi8WrXc?si=23VQKSXv9ZqocqHu
 
 ## Model Details
 The project employs transfer learning using state-of-the-art models like T5 and BERT for question answering and document retrieval components. Video frames are processed to detect facial anomalies, while audio cues are examined for inconsistencies.
